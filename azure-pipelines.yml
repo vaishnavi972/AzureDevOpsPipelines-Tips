@@ -6,10 +6,10 @@ pool:
 
 variables:
   subscription: AzurePortal
-  resourceGroup: resourcegroup-tfstate
-  storageAccount: terraformtfstateskip1517
-  container: tfstate
-  tfstateFile: terraform.tfstate
+  resourceGroup: resourcegroup8090
+  storageAccount: terraformtfstateskip8090
+  container: tfstate8090
+  tfstateFile: terraformprod.tfstate
   anyTfChanges: false
 
 steps:
